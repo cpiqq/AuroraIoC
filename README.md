@@ -1,2 +1,2 @@
 # AuroraIoC
-StrangeIoC 的变种版本
+StrangeIoC https://github.com/strangeioc/strangeioc 的变种版本
